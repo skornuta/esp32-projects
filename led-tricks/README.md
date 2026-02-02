@@ -15,7 +15,7 @@ Build a device that controls a WS2812B LED strip using an ESP32, demonstrating h
 - FastLED library  
 
 ## Photos
-*(Add images of the ESP32 connected to the LED strip here)*
+![LED Strip Tricks](led-tricks.png)
 
 ## How to Run
 
