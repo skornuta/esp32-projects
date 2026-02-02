@@ -3,6 +3,8 @@
 ## Goal
 Build a device that controls a WS2812B LED strip using an ESP32, demonstrating how to turn LEDs on and off and change their colors using the FastLED library.
 
+## Language: C
+
 ## Hardware
 - ESP32 development board  
 - WS2812B (NeoPixel-compatible) LED strip (8 LEDs)  
